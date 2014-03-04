@@ -1,0 +1,3 @@
+module DataSmash
+  VERSION = "0.0.1"
+end
